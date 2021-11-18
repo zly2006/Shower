@@ -38,6 +38,8 @@ coutinue
 goto
 switch
 case
+default
+return
 
 _assembly
 _generic
